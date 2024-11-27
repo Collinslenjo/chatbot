@@ -1,8 +1,8 @@
 ## Simple Chatbot with Python and nltk
 > How to Run
-> create and activate virtual env
-> install dependencies ```pip install -r requirements.txt```
-> run ```python3 chatbot.py```
+- create and activate virtual env
+- install dependencies ```pip install -r requirements.txt```
+-  run ```python3 chatbot.py```
 
 ### Sample commands / chats
 ```shell
